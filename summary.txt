@@ -1,0 +1,36 @@
+1. Why did you choose the tools, libraries, and language you used for the coding exercise?
+
+I decided to use Java to develop this project because it is personally my favorite language to build larger applications in,
+and my only previous experience with creating API endpoints is with JavaScript and Next.js, so I wanted to challenge myself
+with learning it in a new language. Doing research on building REST API's in Java led me to choose Spring Boot as my
+framework of choice, as it seemed to be very versatile, scalable, and useful to learn, which excited me as I welcomed the 
+opportunity to explore its libraries and learn a new skill. I also took advantage of Java libraries such as HashMaps and ArrayLists
+to build out data structures, as I wanted to be as efficient in storing, retrieving, and updating data as possible.
+
+2. What are the advantages and disadvantages of your solution?
+
+I believe that the advantages of my solution come from the way I have structured my project to allow for levels of abstraction 
+between the different layers of my application. Using Spring Boot enabled me to separate API accessing functionality from business logic and
+data manipulation, which allowed for more modular and flexible code that can be versatile in its implementation, giving way for more
+features to be built on top. Additionally, I believe my usage of efficient data structures, such as HashMaps, allows for greater scalability 
+beyond the scope of this challenge.
+
+I think that the disadvantages of my solution primarily lie in the fact that I do not utilize an exterior database, and therefore I do not
+have persistent data storage between usages of the application. This is something I have not had experience with previously when it comes to 
+Java and Spring Boot and, if given the time, is something I would love to explore to enhance the project and make it into an effective product
+for users to interact with. I also believe one of the shortcomings with my implementation is a lack of extensive testing and handling of edge
+cases, as this is something that could definitely improve the versatility and real life functionality of the application. With further work and
+experience surrounding Java and REST API's, I believe that this is something I could greatly improve upon in order to strengthen my skill set.
+
+3. What has been a favorite school/personal project thus far? What about it that challenged you?
+
+My favorite project I have worked on so far would have to be the predictive College Football model that I spent time developing in Python this past summer
+as a passion project. What I enjoyed about it so much was that I got to dive into a brand new topic that I had little prior experience with in
+machine learning and data science programming, and as someone who had mainly focused on backend development in their programming career it was 
+exciting to be able to apply my skills to a new discipline. It was also extremely engaging to build something that had to do with one of my
+favorite subjects, and to be able to learn new skills while also having fun really reinforced my passion and love for computer science as a 
+whole. It challenged me quite a bit as I had little to no prior data science programming experience in Python, so having to learn a whole
+new array of skills and concepts while also being introduced to lots of new language intricacies was difficult but also highly rewarding.
+Integrating all of these new functionalities such as web scraping, data manipulation, and modeling was a long and intensive process, but
+being able to learn a new discipline and grow my knowledge reminded me of why I want to be in computer science in the first place, as I love
+learning, experimenting with, and discovering new things, especially through building projects like this.
